@@ -1,0 +1,13 @@
+# Confidential Data
+.env
+*.env
+
+# Temp files
+__pycache__/
+*.py[cod]
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# data system
+.DS_Store
