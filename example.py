@@ -1,4 +1,14 @@
-# Getting the data
+from bitso_analysis import (
+    order_book_df,
+    custom_order_book_df,
+    print_order_book,
+    slippage_scenarios,
+    print_slippage_report
+
+)
+
+
+# Getting the data from usd_mxn
 book="usd_mxn"
 
 # This parameter works when showing the depth of the book as follows: the shown depth would be based on top_of_the_book_rate+-percentage
