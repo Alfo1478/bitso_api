@@ -15,9 +15,3 @@ A lightweight Python toolkit to fetch and analyze Bitso order‐book data, plot 
 
 ---
 
-## ⚙️ Installation
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/bitso-orderbook-tools.git
-   cd bitso-orderbook-tools
